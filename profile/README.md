@@ -13,4 +13,4 @@ Easily organize your **Manga**/**Comics**/**Light Novels** libraries into catego
 Atsumeru supports **CBZ**, **CBR**, **CB7**, **PDF**, **ePub** (with limitations), **FB2** (with limitations) and **Djvu** file formats. Metadata for your library can be saved into ComicInfo.xml or powerfull **book_info.json** (designed for Atsumeru) files
 
 ## Read & sync
-Read your content with comfort and two-way history syncronization support in **Atsumeru app (Android)**, **AniLabX (Android)** or **Atsumeru Manager (Windows/Linux)**
+Read your content with comfort and two-way history synchronization support in **WebUI** and **Atsumeru app (Android)** or **Atsumeru Manager (Windows/Linux)**
